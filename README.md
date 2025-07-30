@@ -1,0 +1,17 @@
+# parcel (parceljs.org)
+- dev build
+- local server
+- HMR Hot Module Replacement
+- File watching Algorithm - Written in c++
+- Caching - faster builds
+- image optimization
+- Minification
+- compress
+- contsistent Hashing
+- code splitting
+- Differential bundling - supprot older browser
+- Diagnostic
+- error handling
+- HTTPs
+- Tree Shaking - remove unused code
+- Different DEV and Prodution
